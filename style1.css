@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Situs Web Saya</title>
+    <style>
+        /* Mengatur font untuk seluruh halaman */
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0; /* Menghapus margin default pada body */
+            padding: 0; /* Menghapus padding default pada body */
+        }
+
+        /* Gaya untuk kontainer utama */
+        .container {
+            border: 5px solid rgb(51, 216, 245);
+            padding: 20px;
+            margin: 20px; /* Menambahkan margin untuk memberikan jarak dengan border browser */
+        }
+
+        /* Gaya untuk judul utama */
+        h1 {
+            color: #f10a89;
+            font-size: 2em;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            border-bottom: 10px dotted #000000;
+            margin-bottom: 10px;
+        }
+
+        /* Gaya untuk judul sekunder */
+        h2 {
+            font-size: 1.5em;
+        }
+
+        /* Gaya untuk job title */
+        .job-title {
+            color: #eb0954;
+            font-weight: bold;
+        }
+
+        ul{
+            border: 7px solid #050505;
+            padding: 10px;
+            text-align: center;
+            margin-bottom: 1ex;
+            background-color: rgb(174, 248, 224);
+            
+        
+          }
+  
+
+        /* Gaya untuk tautan (link) */
+        a:link,
+        a:visited {
+            color: #fb6542;
+        }
+
+        /* Gaya saat tautan dihover */
+        a:hover {
+            text-decoration: none;
+        }
+
+  
